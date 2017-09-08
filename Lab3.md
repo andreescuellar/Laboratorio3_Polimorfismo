@@ -60,9 +60,14 @@ La diferencia es que una
    1.1 Se indica que es una interface y no una clase.
    1.2 Se declara los dos parametros que deben tener las otras dos sub clases que posteriormente se realizaran.
 
- [Shape](Shape.png)
- ![GitHub Logo](/images/Shape.png)
+ ![](/images/Shape.png)
+ 
  ![](/Laboratorio3_Polimorfismo/Shape.png)
+ 
+ ![](Shape.png)
+ 
+ ![](Laboratorio3_Polimorfismo/Shape.png)
+ 
 2. Crear la clase Rectangulo
 
     2.1 Se declaran las variables de la clase Rectangulo que seria altura y largo.
