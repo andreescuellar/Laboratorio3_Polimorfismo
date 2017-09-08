@@ -17,38 +17,38 @@ Es una clases que nos permiten crear método generales que recrean un comportami
 
 La diferencia es que una
 
-Herencia: Tienes una jerarquía de clases. Que bien pueden heredar propiedades y métodos de una clase abstracta.
+ 1. Herencia: Tienes una jerarquía de clases. Que bien pueden heredar propiedades y métodos de una clase abstracta.
  y por otro lado 
  
-Interfaz: Es “obligar” a una clase a dar cuerpo a los métodos declarados en una interface, con el fin de que tu clase genere objetos que sean del tipo de interface que implementan.
+ 2.0 Interfaz: Es “obligar” a una clase a dar cuerpo a los métodos declarados en una interface, con el fin de que tu clase genere        objetos que sean del tipo de interface que implementan.
 
 - ¿Qué diferencia hay entre pila, cola y lista? 
 
  1. Pila: Es un método de estructuración de datos usando la forma LIFO (ultimo en entrar, primero en salir).
        Tiene operaciones como: 
-        -Push(Introduce elemento a la pila) 
-        -POP(Elimina un elemento de la pila)
-        -Vacia (Función booleana que indica si la pila esta vacia o no)
+        - Push(Introduce elemento a la pila) 
+        - POP(Elimina un elemento de la pila)
+        - Vacia (Función booleana que indica si la pila esta vacia o no)
 
  2. Cola: Es un método de estructuración de datos usando la forma FIFO (Primero en entrar, primero en salir).
        Tiene operaciones como: 
-        -Crear (Crea la cola vacia)
-        -Encolar(Introduce elemento a la cola) 
-        -Desencolar(Elimina el primer elemento de la cola)
-        -Frente (Decuelce el elemento frontar de la cola, es decir, el primer elemento que entró)
+        - Crear (Crea la cola vacia)
+        - Encolar(Introduce elemento a la cola) 
+        - Desencolar(Elimina el primer elemento de la cola)
+        - Frente (Decuelce el elemento frontar de la cola, es decir, el primer elemento que entró)
         
   2. Lista: Es un tipo de dato autorefenciado porque contiene un puntero o link a otro dato del mismo tipo.
        Tiene operaciones como: 
-        -Recorrer los elementos hacia adelante 
-        -Recorrer los elementos hacia atras
-        -Insertar un nuevo elemento al principio
-        -Insertar un nuevo elemento al final
-        -Insertar un nuevo elemento despues de otro 
-        -Insertar un nuevo elemento antes de otro
-        -Remover un elemento del principio
-        -Remover un elemento del final
-        -Remover un elemento que esta antes que otro
-        -Remover un elemento que esta despues de otro
+        - Recorrer los elementos hacia adelante 
+        - Recorrer los elementos hacia atras
+        - Insertar un nuevo elemento al principio
+        - Insertar un nuevo elemento al final
+        - Insertar un nuevo elemento despues de otro 
+        - Insertar un nuevo elemento antes de otro
+        - Remover un elemento del principio
+        - Remover un elemento del final
+        - Remover un elemento que esta antes que otro
+        - Remover un elemento que esta despues de otro
         
 
 ## b) Bitácora
