@@ -79,7 +79,13 @@ La diferencia es que una
     2.4 Se escribe un to string para obtener el valor de todos los datos y organizarlos en una cadena alfanumerica. 
 
 
-   ![](/Laboratorio3_Polimorfismo/Rectangulo.png)
+   ![](/images/Rectangulo.png)
+ 
+ ![](/Laboratorio3_Polimorfismo/Rectangulo.png)
+ 
+ ![](Rectangulo.png)
+ 
+ ![](Laboratorio3_Polimorfismo/Rectangulo.png)
 
 
 3. Crear la clase Triangulo
@@ -93,7 +99,13 @@ La diferencia es que una
     3.4 Se escribe un to string para obtener el valor de todos los datos y organizarlos en una cadena alfanumerica. 
  
 
-     ![](/Laboratorio3_Polimorfismo/Triangulo.png)
+     ![](/images/Triangulo.png)
+ 
+ ![](/Laboratorio3_Polimorfismo/Triangulo.png)
+ 
+  ![](Triangulo.png)
+ 
+ ![](Laboratorio3_Polimorfismo/Triangulo.png)
 
 4. Crear la clase Main
 
@@ -103,6 +115,12 @@ La diferencia es que una
 
     4.3 Se imprimen llamando al metodo ToString, ejemplo: System.out.println("nombre del objeto".toString());
 
-![](/Laboratorio3_Polimorfismo/Main.png)
+![](/images/Main.png)
+ 
+ ![](/Laboratorio3_Polimorfismo/Main.png)
+ 
+ ![](Main.png)
+ 
+ ![](Laboratorio3_Polimorfismo/Main.png)
 
 
