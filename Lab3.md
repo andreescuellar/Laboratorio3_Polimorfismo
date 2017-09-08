@@ -73,7 +73,7 @@ La diferencia es que una
     2.4 Se escribe un to string para obtener el valor de todos los datos y organizarlos en una cadena alfanumerica. 
 
 
-     [](Rectangulo.jpg)
+     ![](Rectangulo.jpg)
 
 
 3. Crear la clase Triangulo
