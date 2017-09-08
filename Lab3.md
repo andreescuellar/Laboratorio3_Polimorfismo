@@ -60,7 +60,7 @@ La diferencia es que una
    1.1 Se indica que es una interface y no una clase.
    1.2 Se declara los dos parametros que deben tener las otras dos sub clases que posteriormente se realizaran.
 
- [](Shape.png)
+ [Shape](Shape.png)
 
 2. Crear la clase Rectangulo
 
@@ -73,7 +73,7 @@ La diferencia es que una
     2.4 Se escribe un to string para obtener el valor de todos los datos y organizarlos en una cadena alfanumerica. 
 
 
-     ![](Rectangulo.jpg)
+     ![Shape](Rectangulo.jpg)
 
 
 3. Crear la clase Triangulo
@@ -87,7 +87,16 @@ La diferencia es que una
     3.4 Se escribe un to string para obtener el valor de todos los datos y organizarlos en una cadena alfanumerica. 
  
 
-     [Imagen 1](Triangulo.png)
+     [Triangulo](Triangulo.png)
+
+4. Crear la clase Main
+
+    4.1 Se declaran los objetos de la clase Main.
+
+    4.2 Se les da forma a los objetos anteriormente creados, dandole valores a los parametros. 
+
+    4.3 Se imprimen llamando al metodo ToString, ejemplo: System.out.println("nombre del objeto".toString());
+
 
 
 
