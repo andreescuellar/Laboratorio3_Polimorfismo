@@ -60,7 +60,7 @@ La diferencia es que una
    1.1 Se indica que es una interface y no una clase.
    1.2 Se declara los dos parametros que deben tener las otras dos sub clases que posteriormente se realizaran.
 
-[](Shape.png)
+ [](Shape.png)
 
 2. Crear la clase Rectangulo
 
@@ -73,7 +73,7 @@ La diferencia es que una
     2.4 Se escribe un to string para obtener el valor de todos los datos y organizarlos en una cadena alfanumerica. 
 
 
-     [Imagen 1](https://www.dropbox.com/home/Lab2_2?preview=Captura+de+pantalla+(20).png)
+     [](Rectangulo.png)
 
 
 3. Crear la clase Triangulo
