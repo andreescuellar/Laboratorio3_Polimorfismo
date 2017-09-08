@@ -20,22 +20,24 @@ La diferencia es que una
  1. Herencia: Tienes una jerarquía de clases. Que bien pueden heredar propiedades y métodos de una clase abstracta.
  y por otro lado 
  
- 2.0 Interfaz: Es “obligar” a una clase a dar cuerpo a los métodos declarados en una interface, con el fin de que tu clase genere        objetos que sean del tipo de interface que implementan.
+ 2. Interfaz: Es “obligar” a una clase a dar cuerpo a los métodos declarados en una interface, con el fin de que tu clase genere         objetos que sean del tipo de interface que implementan.
 
 - ¿Qué diferencia hay entre pila, cola y lista? 
 
  1. Pila: Es un método de estructuración de datos usando la forma LIFO (ultimo en entrar, primero en salir).
        Tiene operaciones como: 
-        - Push(Introduce elemento a la pila) 
-        - POP(Elimina un elemento de la pila)
+       
+        - Push (Introduce elemento a la pila) 
+        - POP (Elimina un elemento de la pila)
         - Vacia (Función booleana que indica si la pila esta vacia o no)
 
  2. Cola: Es un método de estructuración de datos usando la forma FIFO (Primero en entrar, primero en salir).
        Tiene operaciones como: 
-        - Crear (Crea la cola vacia)
+       
+        - Crear(Crea la cola vacia)
         - Encolar(Introduce elemento a la cola) 
         - Desencolar(Elimina el primer elemento de la cola)
-        - Frente (Decuelce el elemento frontar de la cola, es decir, el primer elemento que entró)
+        - Frente(Decuelce el elemento frontar de la cola, es decir, el primer elemento que entró)
         
   2. Lista: Es un tipo de dato autorefenciado porque contiene un puntero o link a otro dato del mismo tipo.
        Tiene operaciones como: 
